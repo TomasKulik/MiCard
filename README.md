@@ -4,7 +4,7 @@ Learning Flutter and dart at appbrewery.co
 
 Mi Card should have been a personal business card but I made something not that representative.
 
-During this project a was thought:
+During this project I was thought:
 
 * How to create Stateless Widgets
 * What is the difference between hot reload and hot refresh and running an app from cold
